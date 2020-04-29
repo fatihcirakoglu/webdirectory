@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+Allow: title.php
+
+Disallow: edit.php
+Disallow: delete.php
+Disallow: login.php
+Disallow: register.php
+Disallow: newtitle.php
+Disallow: password-reset.php
+Disallow: terms.php
+Disallow: reportus.php
+
+Sitemap: https://yourdomainname.com/sitemap.xml
