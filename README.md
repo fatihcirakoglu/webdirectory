@@ -20,7 +20,7 @@ General Features of Script:
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/fatihcrk/webdirectory.git`
+- Clone this repo to your local machine using `https://github.com/fatihcirakoglu/webdirectory.git`
 
 ### Setup
 
@@ -33,7 +33,7 @@ General Features of Script:
 ## FAQ
 
 - **How can I initialize Database ?**
-    - This webdirectory project uses mysql data base, so you need to create an sql database and import database_template.sql file to initialize it.
+    - This webdirectory project uses sql data base, so you need to create a sql database and import database_template.sql file via mysql to initialize it.
 
 ---
 
