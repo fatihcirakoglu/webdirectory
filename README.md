@@ -22,14 +22,6 @@ General Features of Script:
 
 - Clone this repo to your local machine using `https://github.com/fatihcirakoglu/webdirectory.git`
 
-### Setup
-
-1. Locate all files in your server location
-2. Import `database_template.sql`  file for database initialization
-3. Fullfill `config.php` for configuration of script according to your settings
-4. After completing first three steps, enter website and create a user
-5. Finally, go to your database(you can use phpMyAdmin) and write the user's status section : `admin` without quotes 
-
 ## FAQ
 
 - **How can I initialize Database ?**
